@@ -1,3 +1,8 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-supervised-learning-by-cross-modal-audio/self-supervised-action-recognition-on-ucf101)](https://paperswithcode.com/sota/self-supervised-action-recognition-on-ucf101?p=self-supervised-learning-by-cross-modal-audio)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-supervised-learning-by-cross-modal-audio/self-supervised-action-recognition-on-hmdb51)](https://paperswithcode.com/sota/self-supervised-action-recognition-on-hmdb51?p=self-supervised-learning-by-cross-modal-audio)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-supervised-learning-by-cross-modal-audio/audio-classification-on-esc-50)](https://paperswithcode.com/sota/audio-classification-on-esc-50?p=self-supervised-learning-by-cross-modal-audio)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/self-supervised-learning-by-cross-modal-audio/audio-classification-on-dcase)](https://paperswithcode.com/sota/audio-classification-on-dcase?p=self-supervised-learning-by-cross-modal-audio)
+
 # Self-Supervised Learning by Cross-Modal Audio-Video Clustering
 [[Paper]](https://arxiv.org/pdf/1911.12667.pdf)
 [[Project Website]](http://humamalwassel.com/publication/xdc/)
