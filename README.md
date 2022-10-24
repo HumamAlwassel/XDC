@@ -30,6 +30,8 @@ There are two ways to load the XDC pretrained models in PyTorch: (1) via PyTorch
 
 ### Via PyTorch Hub (Recommended)
 
+> :warning: _**[Known Issue] Using this way to load XDC models breaks for torchvision v0.13 or higher due to backward incompatible changes introduced in torchvision.** Please make sure to use trochvision v0.12 or earlier when loading XDC models via the `torch.hub.load()` API. Loading models via source code still works as expected._
+
 You can load all our pretrained models using `torch.hub.load()` API.
 ```
 import torch
